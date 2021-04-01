@@ -1,0 +1,17 @@
+{
+"companyName": "jtec",
+"productName": "LANKAN_Zombies",
+"productVersion": "1.0",
+"dataUrl": "MYANGRY BIRDS.data.unityweb",
+"asmCodeUrl": "MYANGRY BIRDS.asm.code.unityweb",
+"asmMemoryUrl": "MYANGRY BIRDS.asm.memory.unityweb",
+"asmFrameworkUrl": "MYANGRY BIRDS.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.4f1"
+}
